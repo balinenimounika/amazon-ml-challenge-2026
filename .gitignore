@@ -1,0 +1,4 @@
+outputs/*.tsv
+dataset/
+student_resource/
+__MACOSX/
