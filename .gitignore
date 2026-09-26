@@ -1,4 +1,9 @@
 outputs/*.tsv
+*.tsv
 dataset/
 student_resource/
 __MACOSX/
+*.zip
+__pycache__/
+*.log
+.system_generated/
